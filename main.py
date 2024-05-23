@@ -1,3 +1,4 @@
+
 print('Задача 1')
 a = input("Введите любую строку\n")
 print("Длина строки - " + str(len(a)))
@@ -27,3 +28,10 @@ b = int(input("Введите число >>>"))
 c = int(input("Введите число >>>"))
 f = (a*b)+(a*c)
 print(f**3/2)
+
+
+
+surname = input('Введите вашу фамилию - ')
+name = input('Введите ваше имя - ')
+patronymic = input('Введите ваше отчество - ')
+print(f"{surname} {name[0]}.{patronymic[0]}.")
