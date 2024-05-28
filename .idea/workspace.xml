@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ac2498-067e-4fde-8fed-74f5003d65b4" name="Changes" comment="IntroLesson1">
-      <change beforePath="$PROJECT_DIR$/.idea/IntroProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroProject1.iml" afterDir="false" />
+    <list default="true" id="96ac2498-067e-4fde-8fed-74f5003d65b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/S1NDIK4T/urban_homework.git",
-    "accountId": "f44574f0-734c-405a-9fb1-3225ce04907d"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;S1NDIK4T&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/S1NDIK4T/python_urban_hw.git&quot;,
+    &quot;accountId&quot;: &quot;f44574f0-734c-405a-9fb1-3225ce04907d&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/homework1.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -52,6 +57,7 @@
     "Python.homework1.executor": "Run",
     "Python.homework2.executor": "Run",
     "Python.homework3.executor": "Run",
+    "Python.homework4.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -106,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716191353674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IntroLesson1">
+      <option name="closed" value="true" />
+      <created>1716479698739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716479698739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
