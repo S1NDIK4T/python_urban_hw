@@ -2,6 +2,8 @@ my_dict = {'Wasya': 1021231, 'Petya': 11333, 'uglich': 312312231231}
 print(f"{my_dict}\n"
       f"{my_dict['uglich']}\n"
       f"{my_dict.get('Epron')}")
+my_dict.update({"Epron-711": 123231232,
+               "Denis": 42223342565})
 my_dict.pop('Wasya')
 print(my_dict)
 

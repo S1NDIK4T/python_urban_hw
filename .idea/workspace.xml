@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96ac2498-067e-4fde-8fed-74f5003d65b4" name="Changes" comment="homework5">
-      <change afterPath="$PROJECT_DIR$/homework6.py" afterDir="false" />
+    <list default="true" id="96ac2498-067e-4fde-8fed-74f5003d65b4" name="Changes" comment="homework6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.homework1.executor": "Run",
-    "Python.homework2.executor": "Run",
-    "Python.homework3.executor": "Run",
-    "Python.homework4.executor": "Run",
-    "Python.homework5.executor": "Run",
-    "Python.homework6.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="IntroProject1" />
@@ -146,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716892170569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework6">
+      <option name="closed" value="true" />
+      <created>1716916610858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716916610858</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,7 @@
     <MESSAGE value="IntroLesson1" />
     <MESSAGE value="homework4" />
     <MESSAGE value="homework5" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
+    <MESSAGE value="homework6" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework6" />
   </component>
 </project>
